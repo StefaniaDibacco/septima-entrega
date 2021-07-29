@@ -1,0 +1,20 @@
+[
+	{
+		"title": "Escuadra",
+		"price": 123.45,
+		"thumbnail": "thumbnail\": \"https://es.wikipedia.org/wiki/Escuadra#/media/Archivo:Squadra_45.jpg",
+		"id": 1
+	},
+	{
+		"title": "Calculadora",
+		"price": 234.56,
+		"thumbnail": "https://es.wikipedia.org/wiki/Calculadora#/media/Archivo:Casio_fx-85WA_20050529.jpg",
+		"id": 2
+	},
+	{
+		"title": "Globo Terraqueo",
+		"price": 345.67,
+		"thumbnail": "https://es.wikipedia.org/wiki/Globo_terr%C3%A1queo#/media/Archivo:GlobeSK.jpg",
+		"id": 3
+	}
+]
